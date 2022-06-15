@@ -1,0 +1,223 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="1" tvg-id=La1.tv" tvg-country="ES" tvg-log="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1200px-Logo_TVE-1.svg.png" group-title="Generales",La 1
+https://rtvelivestreamv3.akamaized.net/la1/la1_main_720.m3u8
+
+#EXTINF:-1 tvg-chno="2" tvg-id=La2.tv" tvg-country="ES" tvg-log="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="Generales",La 2
+https://rtvelivestreamv3.akamaized.net/la2/la2_main_1080.m3u8
+
+#EXTINF:-1 tvg-chno="3" tvg-id=Antena3.tv" tvg-country="ES" tvg-log="https://1000marcas.net/wp-content/uploads/2021/04/Antena-3-logo.png" group-title="Generales",Antena 3
+http://magic-clan.net:25461/F2993/Holaa23/161
+
+#EXTINF:-1 tvg-chno="4" tvg-id=Cuatro.tv" tvg-country="ES" tvg-log="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png" group-title="Generales",Cuatro
+http://magic-clan.net:25461/F2993/Holaa23/163
+
+#EXTINF:-1 tvg-chno="5" tvg-id=Telecinco.tv" tvg-country="ES" tvg-log="https://album.mediaset.es/file/10002/2017/11/17/telecinco_circular_500_-1_bda1.png" group-title="Generales",Telecinco
+http://magic-clan.net:25461/F2993/Holaa23/165
+
+#EXTINF:-1 tvg-chno="6" tvg-id=Sexta.tv" tvg-country="ES" tvg-log="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/1000px-La_Sexta_%28A3M%29.svg.png" group-title="Generales",La sexta
+http://magic-clan.net:25461/F2993/Holaa23/167
+
+#EXTINF:-1 tvg-chno="7" tvg-id=Neox.tv" tvg-country="ES" tvg-log="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/1280px-Neox.svg.png" group-title="Generales",Neox
+http://magic-clan.net:25461/F2993/Holaa23/173
+
+#EXTINF:-1 tvg-chno="8" tvg-id=Nova.tv" tvg-country="ES" tvg-log="https://static.wikia.nocookie.net/logopedia/images/0/03/Nova_%282012%29.png/revision/latest?cb=20220317095506&path-prefix=es" group-title="Generales",Nova
+http://magic-clan.net:25461/F2993/Holaa23/175
+
+#EXTINF:-1 tvg-chno="9" tvg-id=Mega.tv" tvg-country="ES" tvg-log="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png" group-title="Generales",Mega
+http://magic-clan.net:25461/F2993/Holaa23/170
+
+#EXTINF:-1 tvg-chno="11" tvg-id=FDF.tv" tvg-country="ES" tvg-log="https://upload.wikimedia.org/wikipedia/commons/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg" group-title="Generales",FDF
+http://magic-clan.net:25461/F2993/Holaa23/178
+
+#EXTINF:-1 tvg-chno="12" tvg-id=Energy.tv" tvg-country="ES" tvg-log="https://album.mediaset.es/file/10002/2017/11/17/divinity_circular_500_-1_d687.png" group-title="Generales",Energy
+http://magic-clan.net:25461/F2993/Holaa23/171
+
+#EXTINF:-1 tvg-chno="13" tvg-id=Divinity.tv" tvg-country="ES" tvg-log="https://upload.wikimedia.org/wikipedia/commons/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg" group-title="Generales",Divinity
+http://magic-clan.net:25461/F2993/Holaa23/177
+
+#EXTINF:-1 tvg-chno="13" tvg-id="Atreseries HD" tvg-country="ES" tvg-logo="http://au-ve.eu:25461/logos/ATRESS.png" group-title="Generales",Atreseries
+http://magic-clan.net:25461/F2993/Holaa23/169
+
+#EXTINF:-1 tvg-chno="15" tvg-id=Trece.tv" tvg-country="ES" tvg-log="https://brandemia.org/sites/default/files/inline/images/destacado13-1200x750.jpg" group-title="Generales",Trece
+https://live-edge-ams-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
+
+#EXTINF:-1 tvg-chno="15" tvg-id=DMAX.tv" tvg-country="ES" tvg-log="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/5b/10000475.png" group-title="Generales",DMAX
+http://magic-clan.net:25461/F2993/Holaa23/91881
+
+#EXTINF:-1 tvg-chno="13" tvg-id="bemad.es" tvg-logo="http://au-ve.eu:25461/logos/BEMAD.png" group-title="Generales",BeMad
+http://magic-clan.net:25461/F2993/Holaa23/132
+
+#EXTINF:-1 tvg-chno="13" tvg-id="Mtv.tv"tvg-logo="https://graffica.info/wp-content/uploads/2017/04/MTV_Logo_2010.svg_-e1491986765105-1200x900.png" group-title="Generales",MTV
+http://magic-clan.net:25461/F2993/Holaa23/233
+
+#EXTINF:-1 tvg-chno="13" tvg-id="MtvE.tv"tvg-logo="https://antiestatico.com/wp-content/uploads/2015/05/MTV-Espan%CC%83a.png" group-title="Generales",MTV Movistar Entret
+http://magic-clan.net:25461/F2993/Holaa23/234
+
+#EXTINF:-1 tvg-chno="13" tvg-id="Sur.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_Sur_Televisi%C3%B3n_2011-2017_logo.svg/1200px-Canal_Sur_Televisi%C3%B3n_2011-2017_logo.svg.png" group-title="Generales",Canal Sur
+http://magic-clan.net:25461/F2993/Holaa23/214
+
+#EXTINF:-1 tvg-chno="13" tvg-id="Extremadura.tv" tvg-name="Canal Extremadura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/CEXMA_new.png" group-title="Generales",Canal Extremadura
+http://magic-clan.net:25461/F2993/Holaa23/215
+
+#EXTINF:-1 tvg-chno="13" tvg-id="Malaga.tv" tvg-logo="https://estaticos-cdn.prensaiberica.es/clip/55058702-388e-4ccb-80fd-960067cdf07a_16-9-aspect-ratio_default_0.jpg" group-title="Generales",Canal Malaga
+http://magic-clan.net:25461/F2993/Holaa23/219
+
+#EXTINF:-1 tvg-chno="13" tvg-id="OndaCadiz.tv" tvg-logo="https://www.peliculasdebodas.com/wp-content/uploads/2017/03/onda-cadiz-el-mirador-logo-1.jpg" group-title="Generales",Onda Cadiz
+http://magic-clan.net:25461/F2993/Holaa23/218
+
+#EXTINF:-1 tvg-chno="13" tvg-id="Galicia.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="Generales",Galicia TV
+http://magic-clan.net:25461/F2993/Holaa23/222
+
+#EXTINF:-1 tvg-chno="13" tvg-id="CanalEstrella.tv"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="Generales",Canal Estrellas
+http://magic-clan.net:25461/F2993/Holaa23/225
+
+#EXTINF:-1 tvg-chno="13" tvg-id="telemadrid.tv" tvg-logo="https://agremia.com/wp-content/uploads/2021/01/logo-telemadrid.png" group-title="Generales",Tele Madrid
+http://magic-clan.net:25461/F2993/Holaa23/227
+
+#EXTINF:-1 tvg-chno="13" tvg-id="Castilla.tv"  tvg-logo="https://brandemia.org/contenido/subidas/2016/09/cabecera-castilla_la_mancha-960x640.jpg" group-title="Generales",Castilla la mancha
+http://magic-clan.net:25461/F2993/Holaa23/228
+
+#EXTINF:-1 tvg-chno="13" tvg-id="Canal4B.tv" tvg-logo="https://uh.gsstatic.es/sfAttachPlugin/423478.png" group-title="Generales",Canal 4 Baleares
+http://magic-clan.net:25461/F2993/Holaa23/201
+
+#EXTINF:-1 tvg-chno="13" tvg-id="IbizaG.tv" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/01/Ibiza-Global-TV.png" group-title="Generales",Ibiza Global TV
+http://magic-clan.net:25461/F2993/Holaa23/200
+
+#EXTINF:-1 tvg-chno="13" tvg-id="disney.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png" group-title="Infantil",Diseny Channel
+http://magic-clan.net:25461/F2993/Holaa23/248
+
+#EXTINF:-1 tvg-chno="13" tvg-id="disneyjunior.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Disney_Junior_2017.svg/revision/latest?cb=20200322141724&path-prefix=es" group-title="Infantil",Disney Junior
+http://magic-clan.net:25461/F2993/Holaa23/250
+
+#EXTINF:-1 tvg-chno="13" tvg-id="NICKELODEON.es" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-Nickelodeon.png" group-title="Infantil",Nickelodeon
+http://magic-clan.net:25461/F2993/Holaa23/846
+
+#EXTINF:-1 tvg-chno="13" tvg-id="NickJr.es" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICKJR.png" group-title="Infantil",Nickeleodeon Junior
+http://magic-clan.net:25461/F2993/Holaa23/95357
+
+#EXTINF:-1 tvg-chno="13" tvg-id="clantve.es" tvg-name="CLAN TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="Infantil",Clan TV
+http://magic-clan.net:25461/F2993/Holaa23/252
+
+#EXTINF:-1 tvg-chno="13" tvg-id="canalpanda.es" tvg-name="PANDA" tvg-logo="http://www.panoramaaudiovisual.com/wp-content/uploads/2015/07/LOGO-PANDA.png" group-title="Infantil",PANDA
+http://magic-clan.net:25461/F2993/Holaa23/254
+
+#EXTINF:-1 tvg-chno="13" tvg-id="Boing.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Boing_2020.svg/1200px-Boing_2020.svg.png" group-title="Infantil",BOING
+http://magic-clan.net:25461/F2993/Holaa23/255
+
+#EXTINF:-1 tvg-chno="13" tvg-id="Baby.TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BABY.png" group-title="Infantil",Baby TV
+http://magic-clan.net:25461/F2993/Holaa23/257
+
+#EXTINF:-1 tvg-chno="15" tvg-id=Fox.tv" tvg-country="ES" tvg-log="http://au-ve.eu:25461/logos/FOXGE.png" group-title="Entretenimiento",Fox
+http://magic-clan.net:25461/F2993/Holaa23/141
+
+#EXTINF:-1 tvg-chno="15" tvg-id=Dark.tv" tvg-country="ES" tvg-log="http://au-ve.eu:25461/logos/DARK.png" group-title="Entretenimiento",Dark
+http://magic-clan.net:25461/F2993/Holaa23/759
+
+#EXTINF:-1 tvg-chno="15" tvg-id=AMC.tv" tvg-country="ES" tvg-log="http://au-ve.eu:25461/logos/AMC.png" group-title="Entretenimiento",AMC
+http://magic-clan.net:25461/F2993/Holaa23/145
+
+#EXTINF:-1 tvg-chno="15" tvg-id="resistencia.es" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/RESIST.png" group-title="Entretenimiento",La Resistencia
+http://magic-clan.net:25461/F2993/Holaa23/95820
+
+#EXTINF:-1 tvg-chno="15" tvg-id="ubeat.tv" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/UBEAT.png" group-title="Entretenimiento",Ubeat
+http://magic-clan.net:25461/F2993/Holaa23/74127
+
+#EXTINF:-1 tvg-chno="15" tvg-id="dreamwokr.es" tvg-logo="http://au-ve.eu:25461/images/d62a00de94c10095c8382a1af0aeebd9.png" group-title="Entretenimiento",Dreamworks
+http://magic-clan.net:25461/F2993/Holaa23/75692
+
+#EXTINF:-1 tvg-chno="15" tvg-id="HOLLYWOOD FHD" tvg-logo="http://au-ve.eu:25461/logos/HOLLYW.png" group-title="Entretenimiento",Hollywood
+http://magic-clan.net:25461/F2993/Holaa23/36
+
+#EXTINF:-1 tvg-chno="15" tvg-id="CALLE 13 FHD" tvg-logo="http://au-ve.eu:25461/logos/CL13.png" group-title="Entretenimiento",Calle 13
+http://magic-clan.net:25461/F2993/Holaa23/38
+
+#EXTINF:-1 tvg-chno="15" tvg-id="TNT FHD" tvg-logo="http://au-ve.eu:25461/logos/TNT.png" group-title="Entretenimiento",TNT
+http://magic-clan.net:25461/F2993/Holaa23/42
+
+#EXTINF:-1 tvg-chno="15" tvg-id="tcm.es" tvg-logo="http://au-ve.eu:25461/logos/TCM.png" group-title="Entretenimiento",TCM
+http://magic-clan.net:25461/F2993/Holaa23/40
+
+#EXTINF:-1 tvg-chno="15" tvg-id="Somos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/SOMOS.png" group-title="Entretenimiento",Somos
+http://magic-clan.net:25461/F2993/Holaa23/732
+
+#EXTINF:-1 tvg-chno="15" tvg-id="LA 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/XTRM.png" group-title="Entretenimiento",XTRM
+http://magic-clan.net:25461/F2993/Holaa23/154
+
+#EXTINF:-1 tvg-chno="15" tvg-id="AXN FHD" tvg-logo="http://au-ve.eu:25461/logos/AXN.png" group-title="Entretenimiento",AXN
+http://magic-clan.net:25461/F2993/Holaa23/138
+
+#EXTINF:-1 tvg-chno="15" tvg-id="AXN WHITE FHD" tvg-logo="http://au-ve.eu:25461/logos/SET.png" group-title="Entretenimiento",AXN White
+http://magic-clan.net:25461/F2993/Holaa23/139
+
+#EXTINF:-1 tvg-chno="15" tvg-id="blaze.es" tvg-logo="http://au-ve.eu:25461/logos/BIOGRA.png" group-title="Entretenimiento",BLAZE 
+http://magic-clan.net:25461/F2993/Holaa23/130
+
+#EXTINF:-1 tvg-chno="15" tvg-id="paramountchannel.es" tvg-logo="http://au-ve.eu:25461/logos/PARCH.png" group-title="Entretenimiento",Paramount Network
+http://magic-clan.net:25461/F2993/Holaa23/179
+
+#EXTINF:-1 tvg-chno="15" tvg-id="comedycentral.es" tvg-logo="http://au-ve.eu:25461/logos/PCM.png" group-title="Entretenimiento",Comedy central
+http://magic-clan.net:25461/F2993/Holaa23/136
+
+#EXTINF:-1 tvg-chno="15" tvg-id="COSMO FHD" tvg-logo="http://au-ve.eu:25461/logos/COSMO.png" group-title="Entretenimiento",Cosmopolitan
+http://magic-clan.net:25461/F2993/Holaa23/134
+
+#EXTINF:-1 tvg-chno="15" tvg-id="SYFY FHD" tvg-logo="http://au-ve.eu:25461/images/0e39649f96dc072f7e96b655835d33b9.png" group-title="Entretenimiento",SyFy
+http://magic-clan.net:25461/F2993/Holaa23/148
+
+#EXTINF:-1 tvg-chno="15" tvg-id="NAT GEO FHD" tvg-logo="http://au-ve.eu:25461/logos/NATGEO.png" group-title="Entretenimiento",Nat Geo
+http://magic-clan.net:25461/F2993/Holaa23/123
+
+#EXTINF:-1 tvg-chno="15" tvg-id="HISTORIA FHD" tvg-logo="http://au-ve.eu:25461/logos/HIST.png" group-title="Entretenimiento",Historia
+http://magic-clan.net:25461/F2993/Holaa23/114
+
+#EXTINF:-1 tvg-chno="15" tvg-id="sundance.es" tvg-logo="http://au-ve.eu:25461/logos/SUNDAN.png" group-title="Entretenimiento",Sundance
+http://magic-clan.net:25461/F2993/Holaa23/796
+
+#EXTINF:-1 tvg-chno="15" tvg-id="odisea.es" tvg-logo="http://au-ve.eu:25461/logos/ODISEA.png" group-title="Entretenimiento",Canal Odisea
+http://magic-clan.net:25461/F2993/Holaa23/803
+
+#EXTINF:-1 tvg-chno="15" tvg-chno="15" tvg-id=NatGeo.tv" tvg-country="ES" tvg-log="http://au-ve.eu:25461/logos/NATGW.png" group-title="Entretenimiento",NatGeo Wild
+http://magic-clan.net:25461/F2993/Holaa23/124
+
+#EXTINF:-1 tvg-chno="15" tvg-id="cazapesca.es" tvg-logo="http://au-ve.eu:25461/logos/CAZPES.png" group-title="Entretenimiento",Caza y Pesca
+http://magic-clan.net:25461/F2993/Holaa23/104
+
+#EXTINF:-1 tvg-chno="15" tvg-id="Cazavision" tvg-logo="http://au-ve.eu:25461/logos/CAZPES.png" group-title="Entretenimiento",Caza Vision
+http://magic-clan.net:25461/F2993/Holaa23/106
+
+#EXTINF:-1 tvg-chno="15" tvg-id="toros.es" tvg-logo="http://au-ve.eu:25461/logos/CFERIA.png" group-title="Entretenimiento",Canal Toros
+http://magic-clan.net:25461/F2993/Holaa23/102
+
+#EXTINF:-1 tvg-id="0.es" tvg-logo="http://au-ve.eu:25461/logos/MV3.png" group-title="Movistar Entret",#0 HD
+http://magic-clan.net:25461/F2993/Holaa23/21
+
+#EXTINF:-1 tvg-id="Estreno.es" tvg-logo="http://au-ve.eu:25461/images/01d2df095218cb6f05c24a86318311cc.png" group-title="Movistar Entret",M. Estrenos
+http://magic-clan.net:25461/F2993/Holaa23/25
+
+#EXTINF:-1 tvg-id="estrenoe2.es" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEST2.png" group-title="Movistar Entret",M. Estrenos 2
+http://magic-clan.net:25461/F2993/Holaa23/72142
+
+#EXTINF:-1 tvg-id="M. ACCION FHD" tvg-logo="http://au-ve.eu:25461/logos/CPACCI.png" group-title="Movistar Entret",M. Acción
+http://magic-clan.net:25461/F2993/Holaa23/27
+
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-logo="http://au-ve.eu:25461/logos/CPCOME.png" group-title="Movistar Entret",M. Comedia
+http://magic-clan.net:25461/F2993/Holaa23/31
+
+#EXTINF:-1 tvg-id="mdrama.es" tvg-logo="http://au-ve.eu:25461/images/9f2b8a1cc10ddd038be28542a5037b33.png" group-title="Movistar Entret",M. Drama
+http://magic-clan.net:25461/F2993/Holaa23/29
+
+#EXTINF:-1 tvg-id="fest.es" tvg-logo="https://www.tvguia.es/sites/default/files/logo/m-fest.png" group-title="Movistar Entret",M. Fest
+http://magic-clan.net:25461/F2993/Holaa23/74129
+
+#EXTINF:-1 tvg-id="clasicos.es" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="Movistar Entret",M. Clásicos
+http://magic-clan.net:25461/F2993/Holaa23/74401
+
+#EXTINF:-1 tvg-id="movistarespanol.es" tvg-logo="http://au-ve.eu:25461/images/c82f3fe48c0a8d99fff5c68e1037d179.png" group-title="Movistar Entret",M. Cine Español
+http://magic-clan.net:25461/F2993/Holaa23/34
+
+#EXTINF:-1 tvg-id="series.es" tvg-logo="http://au-ve.eu:25461/logos/CPSER.png" group-title="Movistar Entret",M. Series
+http://magic-clan.net:25461/F2993/Holaa23/44
+
+#EXTINF:-1 tvg-id="series2.es" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPSER.png" group-title="Movistar Entret",M. Series 2
+http://magic-clan.net:25461/F2993/Holaa23/72140
