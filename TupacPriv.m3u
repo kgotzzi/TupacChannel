@@ -221,3 +221,6 @@ http://magic-clan.net:25461/F2993/Holaa23/44
 
 #EXTINF:-1 tvg-id="series2.es" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPSER.png" group-title="Movistar Entret",M. Series 2
 http://magic-clan.net:25461/F2993/Holaa23/72140
+
+#EXTINF:-1 tvg-id="NoWayHome.cine" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osYbtvqjMUhEXgkuFJOsRYVpq6N.jpg" group-title="Cine",Spider-Man: No Way Home (2021)
+http://magic-clan.net:25461/movie/F2993/Holaa23/92864.mkv
